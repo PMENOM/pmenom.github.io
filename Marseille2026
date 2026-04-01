@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>RTNCG IHP Trimester note</title>
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>Marseille Month note</h1>
+
+<ul>
+<li><p><a href="pdf/Hochschild homology for red padic grp.pdf">[Hochschild homology of reductive p-adic groups note]</a>, 2025.3.</p>
+<p>This is the lecture talk given by <a href="https://www.math.ru.nl/~solleveld/">Maarten Solleveld</a> from Radboud Universiteit Nijmegen.
+<p>The goal of this mini-course is to explain a description of the Hochschild homology of the Hecke algebra of a reductive p-adic group, in spectral terms related to the Bernstein center.</p>
+<p>Lecture 1: Introduction to Hochschild homology and twisted crossed product algebras.
+<p>Lecture 2: Representation theory and Hochschild homology of graded Hecke algebras.
+<p>Lecture 3: Hochschild homology of algebras associated to p-adic groups.
+<p>Details can be found in the series of papers on the topics 'Hecke algebras of p-adic groups' and 'Homology of Hecke algebras' parts at his homepage. Tbh I need more time to understand how this works. Update: he just uploaded his note <a href="https://arxiv.org/pdf/2510.17260">Group algebras of reductive p-adic groups, their representations and their noncommutative geometry</a>.
+
+<p> In p-adic day of Tempered representations and C* algebra, he gave a talk on <a href="pdf/Top K theory of reductive p adic group.pdf">[Topological K-Theory of reductive p-adic groups]</a>,
+which described how the K-theory can be computed from the space of irreducible tempered representations. The final description is closely related to conjectures by Aubert-Baum-Plymen-Solleveld.
+</li>
+</ul>
+
+
+<div id="footer">
+<div id="footer-text">
+<br>Page generated 2023-06-23, by <a href="https://pmenom.github.io/">Zhiqi Zhu</a>.
+</div>
+</div>
+</div>
+</body>
+</html>
